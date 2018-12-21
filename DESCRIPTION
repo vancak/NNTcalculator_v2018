@@ -1,0 +1,16 @@
+Package: nntcalc
+Type: Package
+Title: NNT Calculator 
+Version: 0.1
+Author: V. Vancak
+Maintainer: <valentin.vancak@gmail.com>
+Description: Calculuates (estimates) Laupacis NNTs for all settings. 
+             Calculates MLE (estimates) KK-NNT for all settings.
+             Calcualutes (estimtes) MLE NNT for Normal and exponential settings.
+License: MIT + file LICENSE
+Imports: 
+	boot,
+	stats
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
